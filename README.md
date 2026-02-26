@@ -1,4 +1,6 @@
-User Management System (ASP.NET Core Razor Pages)
+ User Management System (ASP.NET Core Razor Pages)
+
+ 
 Project Overview
 
 The User Management System (UMS) is a simple web application built with ASP.NET Core Razor Pages and SQL Server. It allows users to register, login, and manage roles. The system supports three types of users:
